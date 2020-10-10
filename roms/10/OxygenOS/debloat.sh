@@ -59,3 +59,7 @@ rm -rf $1/priv-app/Houston
 rm -rf $1/priv-app/OPAppCategoryProvider
 rm -rf $1/priv-app/OPDeviceManager
 rm -rf $1/priv-app/OPDeviceManagerProvider
+
+#
+rm -rf $1/etc/apps
+rm -rf $1/etc/usb_drivers.iso
